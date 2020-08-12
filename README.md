@@ -15,9 +15,8 @@
 
 
 # 교육사항
-* (주)구디아카데미 사물인터넷(IOT)기반 응용 SW개발 
-    - JavaScript, JQuery, Css, Html5
-    - C# / ASP.NET FRAME WORK
+* (주)구디아카데미 사물인터넷(IOT)기반 응용 SW개발자 양성 과정
+    - 관련기술 : JavaScript, JQuery, Css, Html5, C# / ASP.NET FRAME WORK
     - 기간 : 2017.7 ~ 2018.3
 
 
@@ -30,7 +29,7 @@
 
 # 프로젝트 이력
 
-## SI
+### SI
 * 한라 시멘트
     - 진행기간 : 2018.4 ~ 2018.5
     - 참여인원 : 5명
@@ -49,7 +48,7 @@
     - 개발환경 : Salesforce
     - 담당업무 : Interface 구축
 
-## SM
+### SM
 * Amorepacific China
     - 진행기간 : 2018.6 ~ 2019.7
     - 참여인원 : 2명
