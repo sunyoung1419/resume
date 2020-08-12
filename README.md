@@ -36,17 +36,20 @@
     - 관련기술 : C#, ASP.NET, MS SQL
     - 담당업무 : REST API 구축, IIS Server 구축 및 REST API 게시
 
+
 * 효성 
     - 진행기간 : 2019.5 ~ 2019.6
     - 참여인원 : 3명
     - 개발환경 : Java, MyBatis, Spring, MS SQL
     - 담당업무 : Spring 기반 REST API 구축
 
+
 * Koreanair Business
     - 진행기간 : 2020.4 ~ 2020.11
     - 참여인원 : 6명
     - 개발환경 : Salesforce
     - 담당업무 : Interface 구축
+
 
 **SM**
 * Amorepacific China
@@ -55,11 +58,13 @@
     - 관련기술 : JavaScript, TypeScript, Ionic, Cordova, Salesforce, My Sql, Java
     - 담당업무 : Salesforce 기반 Web, Hybrid App, Java 기반 중계서버 운영 및 추가개발
 
+
 * Innisfree
     - 진행기간 : 2018.5 ~ 
     - 참여인원 : 1명
     - 관련기술 : JavaScript, Ionic, Cordova, Salesforce
     - 담당업무 : Salesforce 기반 Web, Hybrid App 운영 및 추가개발
+
 
 * Olympus 의료
     - 진행기간 : 2019.4 ~
@@ -67,11 +72,13 @@
     - 관련기술 : JAVA
     - 담당업무 : SOAP, REST API 운영 및 추가개발
 
+
 * 한화에너지
     - 진행기간 : 2019.4 ~ 2019.8
     - 참여인원 : 1명
     - 개발환경 : Salesforce
     - 담당업무 : Salesforce 기반 Web 운영 및 추가개발
+
 
 * Koreanair Sales
     - 진행기간 : 2019.10 ~
